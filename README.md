@@ -12,4 +12,4 @@ I'm Nikola Đorđe Glišić, a 24 years old developer from Germany and currently
 
 - German
 - Serbian
-- Englisch
+- English
