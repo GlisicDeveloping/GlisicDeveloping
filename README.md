@@ -1,4 +1,3 @@
-
 # 👋 Welcome 👋
 ![1634375683644](https://github.com/GlisicDeveloping/GlisicDeveloping/assets/111592801/95e5d5f1-5f1d-4d8e-8af0-ac5371f5fb11)
 
@@ -13,3 +12,8 @@ I'm Nikola Đorđe Glišić, a 24 years old developer from Germany and currently
 - German
 - Serbian
 - English
+
+## Public Sites:
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-dorde-glisic/)
+[![text](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlisicDeveloping)
